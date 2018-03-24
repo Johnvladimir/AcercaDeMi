@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AcercaDeMi.iml" filepath="$PROJECT_DIR$/.idea/AcercaDeMi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AcercaDeMi.iml" filepath="$PROJECT_DIR$/AcercaDeMi.iml" />
+      <module fileurl="file://C:\Users\john2\Desktop\Moviles\Proyectos moviles\AcercaDeMi\.idea\AcercaDeMi.iml" filepath="C:\Users\john2\Desktop\Moviles\Proyectos moviles\AcercaDeMi\.idea\AcercaDeMi.iml" />
       <module fileurl="file://C:\Users\john2\Desktop\Moviles\Proyectos moviles\Acerca de mi\AcercaDeMi\MyApplication.iml" filepath="C:\Users\john2\Desktop\Moviles\Proyectos moviles\Acerca de mi\AcercaDeMi\MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\john2\Desktop\Moviles\Proyectos moviles\AcercaDeMi\app\app.iml" filepath="C:\Users\john2\Desktop\Moviles\Proyectos moviles\AcercaDeMi\app\app.iml" />
       <module fileurl="file://C:\Users\john2\Desktop\Moviles\Proyectos moviles\Acerca de mi\AcercaDeMi\app\app.iml" filepath="C:\Users\john2\Desktop\Moviles\Proyectos moviles\Acerca de mi\AcercaDeMi\app\app.iml" />
     </modules>
   </component>

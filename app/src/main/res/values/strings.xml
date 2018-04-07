@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="ing_john_vladimir_linares_de_paz">Ing. John Vladimir Linares De Paz</string>
+    <string name="ingenieria_en_sistemas">Ingenieria En Sistemas</string>
+    <string name="john_vladimir">John Vladimir</string>
+    <string name="john_linares">John Linares</string>
+    <string name="_00005016_uca_edu_sv">00005016@uca.edu.sv</string>
+    <string name="_75809621">75809621</string>
+    <string name="power_by_ing">Power By Ing</string>
+    <string name="compartir">Compartir</string>
+    <string name="compartir_imagen">Compartir Imagen</string>
 </resources>
